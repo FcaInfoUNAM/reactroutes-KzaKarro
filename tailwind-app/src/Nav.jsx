@@ -33,3 +33,6 @@ function Nav (){
     );
 }
 export default Nav;
+
+//La forma en la funciona map es haciendo una iteracion sobre cada elemento del arreglo navigation para que
+//cada elemento del arreglo se tranforme en un link del navbar y regresa ese nuevo arreglo
